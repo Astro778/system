@@ -9,5 +9,3 @@ public class MegaProgettoApplication {
         SpringApplication.run(MegaProgettoApplication.class, args);
     }
 }
-
-

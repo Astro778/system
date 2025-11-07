@@ -1,0 +1,4 @@
+com\progetto\model\User.class
+com\progetto\MegaProgettoApplication.class
+com\progetto\service\UserService.class
+com\progetto\controller\UserController.class
